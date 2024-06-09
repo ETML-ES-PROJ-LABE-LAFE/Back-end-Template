@@ -24,15 +24,9 @@ to retrieve the dependencies, compile and run the program for the first time.
   [...]
 ```
 
-## Test using http requests
+## Test using HTTP requests
 
 Got the file [project]\src\main\java\ch\etmles\payroll\Controllers\EmployeeController.java
 
-Before all routes methods, you will find a curl sample.
-
-## Backlog
-
-Read the different issues.
-
-[Issues](https://github.com/ETML-ES-FWBE/exam/issues)
+Before all route methods, you will find a curl sample.
 
